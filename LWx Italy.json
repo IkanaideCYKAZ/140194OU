@@ -1,0 +1,149 @@
+[
+  {
+    "Nade": 43,
+    "Name": "Alley to Right Entrance",
+    "Position": {
+      "X": -742.07367,
+      "Y": 1528.683,
+      "Z": 4.663981
+    },
+    "Viewangle": {
+      "X": -14.58606,
+      "Y": -120.43625
+    }
+  },
+  {
+    "Nade": 43,
+    "Name": "Alley to Right Entrance 2",
+    "Position": {
+      "X": -961.3305,
+      "Y": 1274.2493,
+      "Z": 7.031251
+    },
+    "Viewangle": {
+      "X": -37.42218,
+      "Y": 139.2438
+    }
+  },
+  {
+    "Nade": 43,
+    "Name": "Alley to Right Entrance 3",
+    "Position": {
+      "X": -843.1646,
+      "Y": 1304.7897,
+      "Z": 0.03125143
+    },
+    "Throw type": 2,
+    "Viewangle": {
+      "X": -36.497955,
+      "Y": -134.75797
+    }
+  },
+  {
+    "Nade": 48,
+    "Name": "Bridge Molly",
+    "Position": {
+      "X": 215.8758,
+      "Y": 687.62646,
+      "Z": -151.95459
+    },
+    "Viewangle": {
+      "X": -24.41986,
+      "Y": 157.26791
+    }
+  },
+  {
+    "Nade": 48,
+    "Name": "Second Bridge Molly",
+    "Position": {
+      "X": -215.50769,
+      "Y": 990.9657,
+      "Z": -159.95038
+    },
+    "Viewangle": {
+      "X": -18.414124,
+      "Y": 82.15988
+    }
+  },
+  {
+    "Nade": 43,
+    "Name": "Entrance Flash",
+    "Position": {
+      "X": -1024.1714,
+      "Y": 80.11833,
+      "Z": -158.56982
+    },
+    "Viewangle": {
+      "X": -41.447983,
+      "Y": -125.31418
+    }
+  },
+  {
+    "Nade": 48,
+    "Name": "Under Second Bridge Molly",
+    "Position": {
+      "X": -261.82483,
+      "Y": 1740.2805,
+      "Z": -151.96875
+    },
+    "Viewangle": {
+      "X": -23.033875,
+      "Y": 19.231903
+    }
+  },
+  {
+    "Nade": 48,
+    "Name": "Under Second Bridge Molly 2",
+    "Position": {
+      "X": -13.910339,
+      "Y": 1447.4758,
+      "Z": -151.96875
+    },
+    "Viewangle": {
+      "X": -23.694077,
+      "Y": 124.23822
+    }
+  },
+  {
+    "Nade": 43,
+    "Name": "Alley to Right Entrance 4",
+    "Position": {
+      "X": -729.03217,
+      "Y": 1740.2087,
+      "Z": 8.217312
+    },
+    "Viewangle": {
+      "X": -19.073975,
+      "Y": -114.15413
+    }
+  },
+  {
+    "Nade": 43,
+    "Name": "T spawn to Mid Flash",
+    "Position": {
+      "X": 145.78569,
+      "Y": 2014.279,
+      "Z": 0.03125
+    },
+    "Throw type": 1,
+    "Type": 1,
+    "Viewangle": {
+      "X": 1.4519043,
+      "Y": -135.34024
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Fake Smoke",
+    "Position": {
+      "X": 742.85565,
+      "Y": 274.3105,
+      "Z": -151.95459
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -47.190063,
+      "Y": 132.03162
+    }
+  }
+]

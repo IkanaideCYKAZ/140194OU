@@ -1,0 +1,574 @@
+[
+  {
+    "Nade": 45,
+    "Name": "Roof to Ramp",
+    "Position": {
+      "X": 289.4004,
+      "Y": 1626.8451,
+      "Z": 256.03125
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": 8.052292,
+      "Y": -109.84783
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Roof to Stairs",
+    "Position": {
+      "X": -52.186523,
+      "Y": 1269.2194,
+      "Z": 229.43936
+    },
+    "Viewangle": {
+      "X": -61.643944,
+      "Y": -83.11741
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Roof to Stairs 2",
+    "Position": {
+      "X": -52.186523,
+      "Y": 1269.2194,
+      "Z": 229.43936
+    },
+    "Viewangle": {
+      "X": -20.855835,
+      "Y": -83.84354
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Side Roof to Catwalk",
+    "Position": {
+      "X": -192.94049,
+      "Y": 1225.0665,
+      "Z": 94.41554
+    },
+    "Viewangle": {
+      "X": -22.835419,
+      "Y": -98.165245
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Side Roof to Window",
+    "Position": {
+      "X": -192.94049,
+      "Y": 1225.0665,
+      "Z": 94.41554
+    },
+    "Viewangle": {
+      "X": -58.211403,
+      "Y": -89.651184
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Panel to Window",
+    "Position": {
+      "X": -253.25806,
+      "Y": 1258.6431,
+      "Z": 82.37608
+    },
+    "Viewangle": {
+      "X": -16.169464,
+      "Y": -88.00152
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Panel to Window 2",
+    "Position": {
+      "X": -253.25806,
+      "Y": 1258.6431,
+      "Z": 82.37608
+    },
+    "Viewangle": {
+      "X": -56.561394,
+      "Y": -87.803764
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Panel to Window 3",
+    "Position": {
+      "X": -253.25806,
+      "Y": 1258.6431,
+      "Z": 82.37608
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": 10.8246155,
+      "Y": -87.143555
+    }
+  },
+  {
+    "Nade": 46,
+    "Name": "Window to T stairs",
+    "Position": {
+      "X": -201.9206,
+      "Y": -497.96777,
+      "Z": 48.03125
+    },
+    "Viewangle": {
+      "X": -5.741394,
+      "Y": 80.33444
+    }
+  },
+  {
+    "Nade": 44,
+    "Name": "Window to T stairs",
+    "Position": {
+      "X": -201.9206,
+      "Y": -497.96777,
+      "Z": 48.03125
+    },
+    "Viewangle": {
+      "X": -6.203491,
+      "Y": 80.070435
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Window to T stairs",
+    "Position": {
+      "X": -201.9206,
+      "Y": -497.96777,
+      "Z": 48.03125
+    },
+    "Viewangle": {
+      "X": -6.203491,
+      "Y": 80.070435
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Window to T Door",
+    "Position": {
+      "X": -195.01276,
+      "Y": -312.03284,
+      "Z": 48.03125
+    },
+    "Viewangle": {
+      "X": -67.253494,
+      "Y": 91.6864
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Table to Ramp",
+    "Position": {
+      "X": 679.9678,
+      "Y": -335.96875,
+      "Z": -30.96875
+    },
+    "Viewangle": {
+      "X": -65.735664,
+      "Y": 170.75433
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Table to T Door",
+    "Position": {
+      "X": 679.9678,
+      "Y": -335.96875,
+      "Z": -30.96875
+    },
+    "Viewangle": {
+      "X": -55.83561,
+      "Y": 129.30667
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Table to T Door 2",
+    "Position": {
+      "X": 679.9678,
+      "Y": -335.96875,
+      "Z": -30.96875
+    },
+    "Viewangle": {
+      "X": -46.331757,
+      "Y": 131.15479
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Flower pot to T Door",
+    "Position": {
+      "X": 367.96875,
+      "Y": -223.96826,
+      "Z": -33.16339
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -72.1376,
+      "Y": 122.64038
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Flower pot to Roof",
+    "Position": {
+      "X": 367.96875,
+      "Y": -223.96826,
+      "Z": -33.16339
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -71.27964,
+      "Y": 113.99414
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Site to T Door",
+    "Position": {
+      "X": -75.23547,
+      "Y": -71.65839,
+      "Z": 0.03125
+    },
+    "Viewangle": {
+      "X": -72.59972,
+      "Y": 101.65204
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Wall to T Door",
+    "Position": {
+      "X": 420.0364,
+      "Y": -164.16968,
+      "Z": -17.489075
+    },
+    "Viewangle": {
+      "X": -65.47199,
+      "Y": 126.04236
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Ledge  to T Door",
+    "Position": {
+      "X": 708.9842,
+      "Y": -103.617004,
+      "Z": -63.96875
+    },
+    "Viewangle": {
+      "X": -60.126114,
+      "Y": 138.15033
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Fence to Window",
+    "Position": {
+      "X": 133.72324,
+      "Y": 1683.3674,
+      "Z": 256.03125
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -59.8621,
+      "Y": -98.921585
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Fence to Stairs",
+    "Position": {
+      "X": 133.41931,
+      "Y": 1641.0193,
+      "Z": 269.03125
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -63.756065,
+      "Y": -89.81392
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Fence to Window",
+    "Position": {
+      "X": 133.41931,
+      "Y": 1641.0193,
+      "Z": 269.03125
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -60.32421,
+      "Y": -99.38404
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Fence to Ramp",
+    "Position": {
+      "X": 133.41931,
+      "Y": 1641.0193,
+      "Z": 269.03125
+    },
+    "Viewangle": {
+      "X": -44.682083,
+      "Y": -106.710205
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Pipe to Ramp",
+    "Position": {
+      "X": 289.0629,
+      "Y": 1408.0824,
+      "Z": 289.06937
+    },
+    "Viewangle": {
+      "X": -22.440262,
+      "Y": -111.6901
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Pipe to Window",
+    "Position": {
+      "X": 289.0629,
+      "Y": 1408.0824,
+      "Z": 289.06937
+    },
+    "Viewangle": {
+      "X": -39.79831,
+      "Y": -105.2219
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Pipe Extension to Stairs",
+    "Position": {
+      "X": 395.82224,
+      "Y": 1175.5253,
+      "Z": 232.66493
+    },
+    "Viewangle": {
+      "X": -14.190552,
+      "Y": -98.3218
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Pipe Extension to Ramp",
+    "Position": {
+      "X": 395.82224,
+      "Y": 1175.5253,
+      "Z": 232.66493
+    },
+    "Viewangle": {
+      "X": -19.206512,
+      "Y": -117.59388
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Pipe Extension to Window",
+    "Position": {
+      "X": 394.98535,
+      "Y": 1175.9478,
+      "Z": 232.78214
+    },
+    "Viewangle": {
+      "X": -15.180359,
+      "Y": -109.835815
+    }
+  },
+  {
+    "Nade": 46,
+    "Name": "Window to Ramp",
+    "Position": {
+      "X": 154.55307,
+      "Y": -526.0802,
+      "Z": 48.031254
+    },
+    "Viewangle": {
+      "X": -0.5942993,
+      "Y": 143.11237
+    }
+  },
+  {
+    "Nade": 44,
+    "Name": "Window to Ramp",
+    "Position": {
+      "X": 154.55307,
+      "Y": -526.0802,
+      "Z": 48.031254
+    },
+    "Viewangle": {
+      "X": -0.7923889,
+      "Y": 143.70633
+    }
+  },
+  {
+    "Nade": 46,
+    "Name": "Ramp to Window",
+    "Position": {
+      "X": -583.242,
+      "Y": -34.342773,
+      "Z": -49.89392
+    },
+    "Throw type": 2,
+    "Viewangle": {
+      "X": -36.96042,
+      "Y": -33.40152
+    }
+  },
+  {
+    "Nade": 46,
+    "Name": "Garbage to Window",
+    "Position": {
+      "X": -436.8988,
+      "Y": 842.6786,
+      "Z": -48.147583
+    },
+    "Viewangle": {
+      "X": -24.354279,
+      "Y": -77.12334
+    }
+  },
+  {
+    "Nade": 46,
+    "Name": "Above Door to Window",
+    "Position": {
+      "X": -381.95667,
+      "Y": 847.0314,
+      "Z": 11.487356
+    },
+    "Viewangle": {
+      "X": -20.658417,
+      "Y": -79.763145
+    }
+  },
+  {
+    "Nade": 46,
+    "Name": "Above Door to Window 2",
+    "Position": {
+      "X": -381.95667,
+      "Y": 847.0314,
+      "Z": 11.487356
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": 7.9197693,
+      "Y": -80.291176
+    }
+  },
+  {
+    "Nade": 46,
+    "Name": "Garbage to Window 2",
+    "Position": {
+      "X": -436.89893,
+      "Y": 847.0288,
+      "Z": -48.147583
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": 3.6962128,
+      "Y": -77.813416
+    }
+  },
+  {
+    "Nade": 44,
+    "Name": "Window to Stairs",
+    "Position": {
+      "X": 81.06709,
+      "Y": -466.46014,
+      "Z": 48.031254
+    },
+    "Viewangle": {
+      "X": -5.0818634,
+      "Y": 149.9524
+    }
+  },
+  {
+    "Nade": 46,
+    "Name": "Window to Stairs",
+    "Position": {
+      "X": 81.06709,
+      "Y": -466.46014,
+      "Z": 48.031254
+    },
+    "Viewangle": {
+      "X": -8.381882,
+      "Y": 149.4903
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Balcony to Ramp",
+    "Position": {
+      "X": 443.22934,
+      "Y": 737.44916,
+      "Z": -94.03955
+    },
+    "Viewangle": {
+      "X": -50.357895,
+      "Y": -124.973946
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Balcony to Window",
+    "Position": {
+      "X": 443.22934,
+      "Y": 737.44916,
+      "Z": -94.03955
+    },
+    "Viewangle": {
+      "X": -63.03028,
+      "Y": -118.63758
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Ladder to Window",
+    "Position": {
+      "X": -10.703247,
+      "Y": 1113.0352,
+      "Z": 64.03125
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -69.43222,
+      "Y": -97.811966
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Ladder to Ramp",
+    "Position": {
+      "X": -10.703247,
+      "Y": 1113.0352,
+      "Z": 64.03125
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -70.356445,
+      "Y": -105.335884
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Ladder to Stairs",
+    "Position": {
+      "X": -10.703247,
+      "Y": 1113.0352,
+      "Z": 64.03125
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -71.21441,
+      "Y": -84.54563
+    }
+  }
+]

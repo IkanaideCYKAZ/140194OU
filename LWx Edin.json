@@ -1,0 +1,344 @@
+[
+  {
+    "Nade": 45,
+    "Name": "T spawn to A site Fake",
+    "Position": {
+      "X": 1585.9723,
+      "Y": 346.65692,
+      "Z": 448.03125
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -38.147964,
+      "Y": 67.88968
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "T spawn to Banana Fake",
+    "Position": {
+      "X": 1584.4662,
+      "Y": 486.07956,
+      "Z": 448.03128
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -31.812286,
+      "Y": 101.61563
+    }
+  },
+  {
+    "Nade": 46,
+    "Name": "Under to Banana Entrance",
+    "Position": {
+      "X": 768.9987,
+      "Y": 2681.4858,
+      "Z": 378.1403
+    },
+    "Viewangle": {
+      "X": -10.956116,
+      "Y": -83.28632
+    }
+  },
+  {
+    "Nade": 44,
+    "Name": "Under to Banana Entrance",
+    "Position": {
+      "X": 768.9987,
+      "Y": 2681.4858,
+      "Z": 378.1403
+    },
+    "Viewangle": {
+      "X": -10.956116,
+      "Y": -83.28632
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "T spawn to Right Side Fake ",
+    "Position": {
+      "X": 1491.6166,
+      "Y": 348.42487,
+      "Z": 450.81165
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -50.88626,
+      "Y": 36.30603
+    }
+  },
+  {
+    "Nade": 46,
+    "Name": "Bar to Doors",
+    "Position": {
+      "X": 2635.3801,
+      "Y": 2847.4797,
+      "Z": 416.03125
+    },
+    "Viewangle": {
+      "X": -15.642471,
+      "Y": -141.828
+    }
+  },
+  {
+    "Nade": 44,
+    "Name": "Bar to Doors",
+    "Position": {
+      "X": 2608.6992,
+      "Y": 2828.553,
+      "Z": 416.03125
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": 9.701614,
+      "Y": -143.74203
+    }
+  },
+  {
+    "Nade": 44,
+    "Name": "Stairs to Ramp",
+    "Position": {
+      "X": 918.8036,
+      "Y": 3272.6348,
+      "Z": 348.2312
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": 5.9398193,
+      "Y": -96.68415
+    }
+  },
+  {
+    "Nade": 46,
+    "Name": "Stairs to Banana Entrance",
+    "Position": {
+      "X": 918.8036,
+      "Y": 3272.6348,
+      "Z": 348.2312
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": 5.0818634,
+      "Y": -90.48031
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Heaven to Doors",
+    "Position": {
+      "X": 2333.5657,
+      "Y": 2913.9644,
+      "Z": 417.03125
+    },
+    "Throw type": 2,
+    "Type": 1,
+    "Viewangle": {
+      "X": -47.850266,
+      "Y": -126.02451
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Back Alley to B Fake",
+    "Position": {
+      "X": 2486.992,
+      "Y": 873.01495,
+      "Z": 396.02747
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -47.850266,
+      "Y": 90.38934
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Back Alley to Hotel",
+    "Position": {
+      "X": 2486.992,
+      "Y": 873.01495,
+      "Z": 396.02747
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -60.720406,
+      "Y": 114.74362
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Back Alley to Factory",
+    "Position": {
+      "X": 2486.992,
+      "Y": 873.01495,
+      "Z": 396.02747
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -74.67785,
+      "Y": 120.08948
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Warehouse to Bar Balcony",
+    "Position": {
+      "X": 1924.3973,
+      "Y": 1416.9596,
+      "Z": 384.03125
+    },
+    "Viewangle": {
+      "X": -40.590027,
+      "Y": 75.19763
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Warehouse to Hotel",
+    "Position": {
+      "X": 2109.6255,
+      "Y": 1440.5754,
+      "Z": 428.03125
+    },
+    "Type": 2,
+    "Viewangle": {
+      "X": -37.4881,
+      "Y": 118.727875
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Warehouse to Entrance",
+    "Position": {
+      "X": 2105.247,
+      "Y": 1499.9982,
+      "Z": 428.03125
+    },
+    "Viewangle": {
+      "X": -37.355927,
+      "Y": 134.1719
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Warehouse to Side Bar Entrance",
+    "Position": {
+      "X": 1928.0316,
+      "Y": 1625.51,
+      "Z": 428.03125
+    },
+    "Viewangle": {
+      "X": -55.835953,
+      "Y": 33.521698
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Dumpster to Bar entrance",
+    "Position": {
+      "X": 2973.1345,
+      "Y": 1647.1788,
+      "Z": 368.03125
+    },
+    "Viewangle": {
+      "X": -40.194168,
+      "Y": 41.60968
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Wall to Door",
+    "Position": {
+      "X": 2219.9656,
+      "Y": 3087.9688,
+      "Z": 440.03125
+    },
+    "Viewangle": {
+      "X": -22.902374,
+      "Y": -114.845924
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Wall to Lower Door",
+    "Position": {
+      "X": 2037.1583,
+      "Y": 3087.9688,
+      "Z": 440.03125
+    },
+    "Viewangle": {
+      "X": -18.678131,
+      "Y": -89.03973
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Ct to Second",
+    "Position": {
+      "X": 2499.3804,
+      "Y": 3921.3455,
+      "Z": 684.03125
+    },
+    "Type": 3,
+    "Viewangle": {
+      "X": -3.6302948,
+      "Y": -73.49373
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Ct to Doors",
+    "Position": {
+      "X": 2997.9668,
+      "Y": 3928.701,
+      "Z": 640.03125
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -40.65628,
+      "Y": -121.673584
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Ct to Lower Door",
+    "Position": {
+      "X": 2997.9668,
+      "Y": 3928.701,
+      "Z": 640.03125
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -18.810303,
+      "Y": -112.961426
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Ct to Doors 2",
+    "Position": {
+      "X": 2997.9668,
+      "Y": 3928.701,
+      "Z": 640.03125
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -16.698181,
+      "Y": -120.48569
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Ct to Second",
+    "Position": {
+      "X": 2997.9668,
+      "Y": 3928.701,
+      "Z": 640.03125
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -41.844177,
+      "Y": -87.81544
+    }
+  }
+]

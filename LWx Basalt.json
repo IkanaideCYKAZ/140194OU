@@ -1,0 +1,256 @@
+[
+  {
+    "Nade": 48,
+    "Name": "A to Entrance",
+    "Position": {
+      "X": 449.73196,
+      "Y": -1024.3682,
+      "Z": 126.294365
+    },
+    "Viewangle": {
+      "X": -21.647873,
+      "Y": -177.03438
+    }
+  },
+  {
+    "Nade": 44,
+    "Name": "A to Entrance",
+    "Position": {
+      "X": 331.0913,
+      "Y": -1093.2915,
+      "Z": 128.2993
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": 10.625839,
+      "Y": 178.6099
+    }
+  },
+  {
+    "Nade": 48,
+    "Name": "Kitchen to Window",
+    "Position": {
+      "X": 193.85907,
+      "Y": -453.3236,
+      "Z": 184.03125
+    },
+    "Viewangle": {
+      "X": -3.7621307,
+      "Y": 178.67615
+    }
+  },
+  {
+    "Nade": 44,
+    "Name": "Kitchen to Window",
+    "Position": {
+      "X": 189.35588,
+      "Y": -451.94055,
+      "Z": 184.03125
+    },
+    "Viewangle": {
+      "X": -3.7621307,
+      "Y": 178.71185
+    }
+  },
+  {
+    "Nade": 48,
+    "Name": "Balcony to T alley",
+    "Position": {
+      "X": -110.93939,
+      "Y": -185.28735,
+      "Z": 198.82631
+    },
+    "Viewangle": {
+      "X": -7.7220154,
+      "Y": 114.13422
+    }
+  },
+  {
+    "Nade": 48,
+    "Name": "T yard to Mid doors",
+    "Position": {
+      "X": -571.29004,
+      "Y": -239.23834,
+      "Z": 168.32489
+    },
+    "Viewangle": {
+      "X": -21.053925,
+      "Y": 32.32968
+    }
+  },
+  {
+    "Nade": 48,
+    "Name": "B Platform to Main",
+    "Position": {
+      "X": 1290.266,
+      "Y": 768.3155,
+      "Z": 144.03125
+    },
+    "Viewangle": {
+      "X": -6.401947,
+      "Y": 116.11932
+    }
+  },
+  {
+    "Nade": 44,
+    "Name": "B Platform to Main",
+    "Position": {
+      "X": 1290.266,
+      "Y": 768.3155,
+      "Z": 144.03125
+    },
+    "Viewangle": {
+      "X": -6.401947,
+      "Y": 116.11932
+    }
+  },
+  {
+    "Nade": 48,
+    "Name": "T yard to Truck",
+    "Position": {
+      "X": -686.28345,
+      "Y": -1051.2137,
+      "Z": 160.4036
+    },
+    "Viewangle": {
+      "X": -17.687988,
+      "Y": -3.172638
+    }
+  },
+  {
+    "Nade": 44,
+    "Name": "T yard to Truck",
+    "Position": {
+      "X": -686.28345,
+      "Y": -1051.2137,
+      "Z": 160.4036
+    },
+    "Viewangle": {
+      "X": -10.823944,
+      "Y": -3.4366608
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "A Platform to Office",
+    "Position": {
+      "X": 671.9085,
+      "Y": -712.57605,
+      "Z": 188.03125
+    },
+    "Viewangle": {
+      "X": -38.940002,
+      "Y": 96.48743
+    }
+  },
+  {
+    "Nade": 43,
+    "Name": "A to Mid Flash",
+    "Position": {
+      "X": 671.9085,
+      "Y": -712.57605,
+      "Z": 188.03125
+    },
+    "Viewangle": {
+      "X": -24.155853,
+      "Y": 129.68604
+    }
+  },
+  {
+    "Nade": 48,
+    "Name": "A Platform to Mid Doors",
+    "Position": {
+      "X": 671.9085,
+      "Y": -712.57605,
+      "Z": 188.03125
+    },
+    "Viewangle": {
+      "X": -18.184082,
+      "Y": 99.854065
+    }
+  },
+  {
+    "Nade": 44,
+    "Name": "A Platform to Mid Doors",
+    "Position": {
+      "X": 696.57306,
+      "Y": -708.69543,
+      "Z": 184.03125
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": 11.647919,
+      "Y": 102.62604
+    }
+  },
+  {
+    "Nade": 48,
+    "Name": "A Platform to Mid Doors 2",
+    "Position": {
+      "X": 696.57306,
+      "Y": -708.69543,
+      "Z": 184.03125
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": 11.647919,
+      "Y": 102.62604
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "A Platform to Mid Doors 2",
+    "Position": {
+      "X": 696.57306,
+      "Y": -708.69543,
+      "Z": 184.03125
+    },
+    "Viewangle": {
+      "X": -60.22602,
+      "Y": 102.09802
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "A Platform to Mid Doors",
+    "Position": {
+      "X": 650.7313,
+      "Y": -715.3826,
+      "Z": 188.03125
+    },
+    "Throw type": 2,
+    "Type": 1,
+    "Viewangle": {
+      "X": 3.5959625,
+      "Y": 97.676025
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Ct start to B Main",
+    "Position": {
+      "X": 1804.4169,
+      "Y": -176.26892,
+      "Z": 40.872986
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -54.94606,
+      "Y": 116.81659
+    }
+  },
+  {
+    "Nade": 45,
+    "Name": "Ct to B Entrance 2",
+    "Position": {
+      "X": 1804.4169,
+      "Y": -176.26892,
+      "Z": 40.872986
+    },
+    "Type": 1,
+    "Viewangle": {
+      "X": -2.1457672,
+      "Y": 116.88251
+    }
+  }
+]
